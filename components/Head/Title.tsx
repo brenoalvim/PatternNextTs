@@ -9,7 +9,7 @@ export default function Title(props: TitleProps) {
         <>
             <Head>
                 <title>
-                    {props.name}
+                    {props.name} • Next TypeScript
                 </title>
             </Head>
         </>

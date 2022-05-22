@@ -9,7 +9,7 @@ export default function Home() {
     <>
       <Meta></Meta>
       <Link />
-      <Title name='Next TypeScript' />
+      <Title name='Home' />
       <h1>
 
       </h1>
