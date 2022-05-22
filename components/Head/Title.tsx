@@ -1,17 +1,15 @@
 interface TitleProps {
-    name: string
+  name: string;
 }
 
-import Head from 'next/head'
+import Head from "next/head";
 
 export default function Title(props: TitleProps) {
-    return (
-        <>
-            <Head>
-                <title>
-                    {props.name} • Next TypeScript
-                </title>
-            </Head>
-        </>
-    )
+  return (
+    <>
+      <Head>
+        <title>{props.name} • Next TypeScript</title>
+      </Head>
+    </>
+  );
 }
