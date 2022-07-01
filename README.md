@@ -1,1 +1,1 @@
-This is a starter template for Next.js with TypeScript.
+A standard template for starting projects using Next.js using TypeScript.
